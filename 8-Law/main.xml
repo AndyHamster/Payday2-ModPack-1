@@ -1,0 +1,4 @@
+<table name="Saul">
+    <Localization directory="loc" default="en.txt"/>
+    <MenuMusic id="Saul" source="sounds/menu.ogg"/>
+</table>
